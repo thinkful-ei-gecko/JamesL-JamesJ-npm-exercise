@@ -1,4 +1,5 @@
 import $ from 'jquery';
+import './index.css';
 import api from './modules/api';
 import store from './modules/store';
 import shoppingList from './modules/shopping-list';
