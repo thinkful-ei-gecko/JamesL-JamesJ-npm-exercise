@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkful-ei-gecko/JamesL-JamesJ-npm-exercise/issues"
   },
-  "homepage": "https://github.com/thinkful-ei-gecko/JamesL-JamesJ-npm-exercise#readme"
+  "homepage": "https://github.com/thinkful-ei-gecko/JamesL-JamesJ-npm-exercise#readme",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
 }
