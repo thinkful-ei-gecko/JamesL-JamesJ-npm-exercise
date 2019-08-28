@@ -19,5 +19,14 @@
   "homepage": "https://github.com/thinkful-ei-gecko/JamesL-JamesJ-npm-exercise#readme",
   "dependencies": {
     "jquery": "^3.4.1"
+  },
+  "devDependencies": {
+    "css-loader": "^3.2.0",
+    "file-loader": "^4.2.0",
+    "html-webpack-plugin": "^3.2.0",
+    "style-loader": "^1.0.0",
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.7",
+    "webpack-dev-server": "^3.8.0"
   }
 }
